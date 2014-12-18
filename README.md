@@ -18,4 +18,5 @@ This work is being carried out as part of the EU SemanticHealthNet project.
 * models
   * archetypes (clinical information components)
   * templates (datasets built from clinical information components)
+  * technical (technical artefacts including schema and example instances)
   
